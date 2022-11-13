@@ -1,0 +1,8 @@
+class YiTask(object):
+    
+    AVALIABLE_DATA = []
+    AVALIABLE_MODELS = []
+    AVALIABLE_CRITERIONS = []
+    AVALIABLE_METRICS = []
+    AVALIABLE_GENERATORS = []
+    AVALIABLE_OPTIMIZERS = []
